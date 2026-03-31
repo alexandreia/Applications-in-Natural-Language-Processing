@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.724 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "TextTier" 
+        name = "voice" 
+        xmin = 0 
+        xmax = 8.724 
+        points: size = 0 
+    item [2]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 8.724 
+        intervals: size = 24 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6198460496550519 
+            text = "we" 
+        intervals [2]:
+            xmin = 0.6198460496550519 
+            xmax = 0.6802575035619659 
+            text = "know" 
+        intervals [3]:
+            xmin = 0.6802575035619659 
+            xmax = 1.2642348913288008 
+            text = "" 
+        intervals [4]:
+            xmin = 1.2642348913288008 
+            xmax = 1.5864293121656754 
+            text = "that" 
+        intervals [5]:
+            xmin = 1.5864293121656754 
+            xmax = 1.7878008251887219 
+            text = "" 
+        intervals [6]:
+            xmin = 1.7878008251887219 
+            xmax = 1.8280751277933314 
+            text = "we" 
+        intervals [7]:
+            xmin = 1.8280751277933314 
+            xmax = 1.9488980356071592 
+            text = "" 
+        intervals [8]:
+            xmin = 1.9488980356071592 
+            xmax = 1.9690351869094638 
+            text = "live" 
+        intervals [9]:
+            xmin = 1.9690351869094638 
+            xmax = 2.371778212955557 
+            text = "" 
+        intervals [10]:
+            xmin = 2.371778212955557 
+            xmax = 2.77452123900165 
+            text = "in" 
+        intervals [11]:
+            xmin = 2.77452123900165 
+            xmax = 3.2175385676523525 
+            text = "" 
+        intervals [12]:
+            xmin = 3.2175385676523525 
+            xmax = 3.600144442396141 
+            text = "a" 
+        intervals [13]:
+            xmin = 3.600144442396141 
+            xmax = 3.9022017119307106 
+            text = "" 
+        intervals [14]:
+            xmin = 3.9022017119307106 
+            xmax = 4.425767645790631 
+            text = "big" 
+        intervals [15]:
+            xmin = 4.425767645790631 
+            xmax = 5.050019336162076 
+            text = "old" 
+        intervals [16]:
+            xmin = 5.050019336162076 
+            xmax = 5.8353682369519575 
+            text = "galaxy" 
+        intervals [17]:
+            xmin = 5.8353682369519575 
+            xmax = 6.419345624718793 
+            text = "in" 
+        intervals [18]:
+            xmin = 6.419345624718793 
+            xmax = 6.620717137741839 
+            text = "a" 
+        intervals [19]:
+            xmin = 6.620717137741839 
+            xmax = 6.942911558578714 
+            text = "big" 
+        intervals [20]:
+            xmin = 6.942911558578714 
+            xmax = 7.003323012485628 
+            text = "old" 
+        intervals [21]:
+            xmin = 7.003323012485628 
+            xmax = 7.526888946345549 
+            text = "" 
+        intervals [22]:
+            xmin = 7.526888946345549 
+            xmax = 7.587300400252462 
+            text = "universe" 
+        intervals [23]:
+            xmin = 7.587300400252462 
+            xmax = 8.31223784713543 
+            text = "" 
+        intervals [24]:
+            xmin = 8.31223784713543 
+            xmax = 8.724 
+            text = "" 
